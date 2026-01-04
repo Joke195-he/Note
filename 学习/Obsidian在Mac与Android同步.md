@@ -1,0 +1,2 @@
+在Mac上，在文件中添加git，Obsidian引入Git插件。
+在Android上，在Google Play中分别下载Obsidian移动端和Git Sync。
