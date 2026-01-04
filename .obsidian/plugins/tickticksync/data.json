@@ -18,7 +18,7 @@
   "bkupFolder": "/",
   "inboxID": "inbox122123533",
   "inboxName": "Inbox",
-  "checkPoint": 1767532705311,
+  "checkPoint": 1767533540569,
   "skipBackup": true,
   "fileMetadata": {
     "滴答清单.md": {
@@ -73,20 +73,21 @@
         "status": 0,
         "items": [],
         "progress": 0,
-        "modifiedTime": "2026-01-04T13:18:19.000+0000",
-        "etag": "wgxssei5",
+        "modifiedTime": "2026-01-04T13:32:19.967+0000",
+        "etag": "bbxs3t4f",
         "deleted": 0,
         "createdTime": "2026-01-04T13:18:13.000+0000",
         "creator": 122123533,
         "tags": [
-          "ticktick",
-          "工作"
+          "工作",
+          "ticktick"
         ],
         "attachments": [],
         "commentCount": 0,
         "focusSummaries": [],
         "kind": "TEXT",
         "imgMode": 0,
+        "level": 1,
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
@@ -106,23 +107,37 @@
       {
         "id": "695a68355acb919eaa566075",
         "projectId": "inbox122123533",
+        "sortOrder": -1,
         "title": "述职材料",
         "content": "",
         "desc": "",
-        "items": [],
-        "parentId": "",
-        "dueDate": "2026-01-04T16:00:00.000+0000",
         "startDate": "2026-01-04T16:00:00.000+0000",
-        "completedTime": "",
-        "isAllDay": true,
-        "tags": [
-          "ticktick",
-          "工作"
-        ],
-        "priority": 0,
-        "modifiedTime": "2026-01-04T13:19:10.956+0000",
-        "status": 0,
+        "dueDate": "2026-01-04T16:00:00.000+0000",
         "timeZone": "Asia/Shanghai",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "exDate": [],
+        "completedUserId": 0,
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-01-04T13:32:19.967+0000",
+        "etag": "bbxs3t4f",
+        "deleted": 0,
+        "createdTime": "2026-01-04T13:16:37.000+0000",
+        "creator": 122123533,
+        "tags": [
+          "工作",
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "kind": "TEXT",
+        "imgMode": 0,
+        "level": 1,
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
@@ -130,14 +145,14 @@
           "dueDate": {
             "hasATime": false,
             "date": "2026-01-05",
+            "time": "00:00",
             "isoDate": "2026-01-04T16:00:00.000+0000",
             "emoji": "📅"
           },
           "scheduled_date": null,
           "startDate": null,
           "isAllDay": true
-        },
-        "lineHash": "eb5c5a6447cb853f6c1bf3fce2c2101e7a131e9c4145d953f7520cb108ce1ac6"
+        }
       }
     ]
   },

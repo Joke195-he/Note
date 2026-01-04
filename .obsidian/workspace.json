@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b5f6fb6823144be",
+        "id": "f19dbaa0b5da190f",
         "type": "tabs",
         "children": [
           {
-            "id": "f11be9bb6c862d8a",
+            "id": "6fa01eccd6f3c71d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,10 +162,10 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "f11be9bb6c862d8a",
+  "active": "6fa01eccd6f3c71d",
   "lastOpenFiles": [
-    "学习/Obsidian/插件使用.md",
     "滴答清单.md",
+    "学习/Obsidian/插件使用.md",
     "学习/Obsidian",
     "学习/Obsidian/Obsidian在Mac与Android同步.md",
     "滴答清单",
