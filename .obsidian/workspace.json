@@ -11,15 +11,10 @@
             "id": "024a6c36172f24e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习/Obsidian在Mac与Android同步.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Obsidian在Mac与Android同步"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,7 +163,6 @@
   },
   "active": "024a6c36172f24e2",
   "lastOpenFiles": [
-    "学习/Obsidian在Mac与Android同步.md",
     "规划/2026规划.md",
     "阅读/三国演义.md",
     "阅读/剑来.md",
