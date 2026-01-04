@@ -1,0 +1,34 @@
+{
+  "baseURL": "ticktick.com",
+  "automaticSynchronizationInterval": 300,
+  "enableFullVaultSync": false,
+  "tagAndOr": 1,
+  "debugMode": false,
+  "logLevel": "info",
+  "SyncProject": "",
+  "SyncTag": "",
+  "defaultProjectId": "",
+  "defaultProjectName": "Inbox",
+  "TickTickTasksFilePath": "/",
+  "keepProjectFolders": false,
+  "syncNotes": true,
+  "noteDelimiter": "-------------------------------------------------------------",
+  "fileLinksInTickTick": "taskLink",
+  "taskLinksInObsidian": "taskLink",
+  "bkupFolder": "/",
+  "inboxID": "inbox122123533",
+  "inboxName": "Inbox",
+  "checkPoint": 1767530290541,
+  "skipBackup": false,
+  "fileMetadata": {},
+  "TickTickTasksData": {
+    "projects": [
+      {
+        "id": "inbox122123533",
+        "name": "Inbox"
+      }
+    ],
+    "tasks": []
+  },
+  "token": "154BB8FE914467834DE4A8CE5989D504E8E7CD50E71EC6121D7A7BF8A99379A83C5D096047E478816114F3DE4175E87923C874B2F9A202D1B5A79F595C16E3186E5219C376B26DA31E7CB776D7468D9F6D96EE0E8099773B0C16DF61C26596B282BEE463B1431075BC4DD36207DCA5A86D96EE0E8099773BBC464E5628562A5EC32D36993667BC840E0AFFC9FA0CE21F0CBAEBD40CA20D3A5FD8438B0CDB817521B10617E99B771F"
+}
