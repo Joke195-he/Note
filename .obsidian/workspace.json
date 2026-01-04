@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ffc89e12363aa01f",
+        "id": "7b5f6fb6823144be",
         "type": "tabs",
         "children": [
           {
-            "id": "024a6c36172f24e2",
+            "id": "f11be9bb6c862d8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "滴答清单.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "滴答清单"
+              "title": "新标签页"
             }
           }
         ]
@@ -167,10 +162,12 @@
       "tickticksync:TickTickSync": false
     }
   },
-  "active": "b8b2bcfdd04d5036",
+  "active": "f11be9bb6c862d8a",
   "lastOpenFiles": [
-    "学习/Obsidian在Mac与Android同步.md",
+    "学习/Obsidian/插件使用.md",
     "滴答清单.md",
+    "学习/Obsidian",
+    "学习/Obsidian/Obsidian在Mac与Android同步.md",
     "滴答清单",
     "规划/2026规划.md",
     "阅读/三国演义.md",
