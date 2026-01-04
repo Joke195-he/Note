@@ -163,15 +163,14 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "tickticksync:TickTickSync": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8b2bcfdd04d5036",
+  "active": "024a6c36172f24e2",
   "lastOpenFiles": [
+    "Inbox.md",
+    "学习/Obsidian在Mac与Android同步.md",
     "滴答清单",
-    "学习/Obsidian在Mac与Android同步.md",
-    "学习/Obsidian在Mac与Android同步.md",
     "规划/2026规划.md",
     "阅读/三国演义.md",
     "阅读/剑来.md",
