@@ -18,9 +18,24 @@
   "bkupFolder": "/",
   "inboxID": "inbox122123533",
   "inboxName": "Inbox",
-  "checkPoint": 1767532196543,
-  "skipBackup": false,
-  "fileMetadata": {},
+  "checkPoint": 1767532705311,
+  "skipBackup": true,
+  "fileMetadata": {
+    "滴答清单.md": {
+      "TickTickTasks": [
+        {
+          "taskId": "695a68955c83919eaa566162",
+          "taskItems": []
+        },
+        {
+          "taskId": "695a68355acb919eaa566075",
+          "taskItems": []
+        }
+      ],
+      "TickTickCount": 2,
+      "defaultProjectId": "inbox122123533"
+    }
+  },
   "TickTickTasksData": {
     "projects": [
       {
@@ -28,7 +43,93 @@
         "name": "Inbox"
       }
     ],
-    "tasks": []
+    "tasks": [
+      {
+        "id": "695a68955c83919eaa566162",
+        "projectId": "inbox122123533",
+        "sortOrder": -1048577,
+        "title": "人才盘点二十八宫格学习",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-01-05T16:00:00.000+0000",
+        "dueDate": "2026-01-05T16:00:00.000+0000",
+        "timeZone": "Asia/Shanghai",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "exDate": [],
+        "completedUserId": 0,
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-01-04T13:18:19.000+0000",
+        "etag": "wgxssei5",
+        "deleted": 0,
+        "createdTime": "2026-01-04T13:18:13.000+0000",
+        "creator": 122123533,
+        "tags": [
+          "ticktick",
+          "工作"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-01-06",
+            "time": "00:00",
+            "isoDate": "2026-01-05T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "695a68355acb919eaa566075",
+        "projectId": "inbox122123533",
+        "title": "述职材料",
+        "content": "",
+        "desc": "",
+        "items": [],
+        "parentId": "",
+        "dueDate": "2026-01-04T16:00:00.000+0000",
+        "startDate": "2026-01-04T16:00:00.000+0000",
+        "completedTime": "",
+        "isAllDay": true,
+        "tags": [
+          "ticktick",
+          "工作"
+        ],
+        "priority": 0,
+        "modifiedTime": "2026-01-04T13:19:10.956+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-01-05",
+            "isoDate": "2026-01-04T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        },
+        "lineHash": "eb5c5a6447cb853f6c1bf3fce2c2101e7a131e9c4145d953f7520cb108ce1ac6"
+      }
+    ]
   },
   "token": "154BB8FE914467834DE4A8CE5989D504E8E7CD50E71EC6121D7A7BF8A99379A83C5D096047E478816114F3DE4175E87923C874B2F9A202D1B5A79F595C16E3186E5219C376B26DA31E7CB776D7468D9F6D96EE0E8099773B0C16DF61C26596B282BEE463B1431075BC4DD36207DCA5A86D96EE0E8099773BBC464E5628562A5EC32D36993667BC840E0AFFC9FA0CE21F0CBAEBD40CA20D3A5FD8438B0CDB817521B10617E99B771F",
   "version": "1.1.17"
