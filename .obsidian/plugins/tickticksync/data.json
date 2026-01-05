@@ -24,11 +24,11 @@
     "滴答清单.md": {
       "TickTickTasks": [
         {
-          "taskId": "695a68955c83919eaa566162",
+          "taskId": "695a68355acb919eaa566075",
           "taskItems": []
         },
         {
-          "taskId": "695a68355acb919eaa566075",
+          "taskId": "695a68955c83919eaa566162",
           "taskItems": []
         }
       ],
@@ -57,37 +57,23 @@
       {
         "id": "695a68355acb919eaa566075",
         "projectId": "inbox122123533",
-        "sortOrder": -1,
         "title": "述职材料",
         "content": "",
         "desc": "",
-        "startDate": "2026-01-04T16:00:00.000+0000",
-        "dueDate": "2026-01-04T16:00:00.000+0000",
-        "timeZone": "Asia/Shanghai",
-        "isFloating": false,
-        "isAllDay": true,
-        "reminders": [],
-        "exDate": [],
-        "completedUserId": 0,
-        "priority": 0,
-        "status": 0,
         "items": [],
-        "progress": 0,
-        "modifiedTime": "2026-01-04T13:32:19.967+0000",
-        "etag": "bbxs3t4f",
-        "deleted": 0,
-        "createdTime": "2026-01-04T13:16:37.000+0000",
-        "creator": 122123533,
+        "parentId": "",
+        "dueDate": "2026-01-04T16:00:00.000+0000",
+        "startDate": "2026-01-04T16:00:00.000+0000",
+        "completedTime": "",
+        "isAllDay": true,
         "tags": [
           "ticktick",
           "工作"
         ],
-        "attachments": [],
-        "commentCount": 0,
-        "focusSummaries": [],
-        "kind": "TEXT",
-        "imgMode": 0,
-        "level": 1,
+        "priority": 0,
+        "modifiedTime": "2026-01-05T04:58:31.536+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
@@ -95,7 +81,6 @@
           "dueDate": {
             "hasATime": false,
             "date": "2026-01-05",
-            "time": "00:00",
             "isoDate": "2026-01-04T16:00:00.000+0000",
             "emoji": "📅"
           },
@@ -103,42 +88,28 @@
           "startDate": null,
           "isAllDay": true
         },
-        "lineHash": "ec3905b2e5e5bfd7143a883b151a9c6415571667f5ba02ce0cae5e9b21727e6c"
+        "lineHash": "eb5c5a6447cb853f6c1bf3fce2c2101e7a131e9c4145d953f7520cb108ce1ac6"
       },
       {
         "id": "695a68955c83919eaa566162",
         "projectId": "inbox122123533",
-        "sortOrder": -1048577,
         "title": "人才盘点二十八宫格学习",
         "content": "",
         "desc": "",
-        "startDate": "2026-01-05T16:00:00.000+0000",
-        "dueDate": "2026-01-05T16:00:00.000+0000",
-        "timeZone": "Asia/Shanghai",
-        "isFloating": false,
-        "isAllDay": true,
-        "reminders": [],
-        "exDate": [],
-        "completedUserId": 0,
-        "priority": 0,
-        "status": 0,
         "items": [],
-        "progress": 0,
-        "modifiedTime": "2026-01-04T13:32:19.967+0000",
-        "etag": "bbxs3t4f",
-        "deleted": 0,
-        "createdTime": "2026-01-04T13:18:13.000+0000",
-        "creator": 122123533,
+        "parentId": "",
+        "dueDate": "2026-01-05T16:00:00.000+0000",
+        "startDate": "2026-01-05T16:00:00.000+0000",
+        "completedTime": "",
+        "isAllDay": true,
         "tags": [
           "ticktick",
           "工作"
         ],
-        "attachments": [],
-        "commentCount": 0,
-        "focusSummaries": [],
-        "kind": "TEXT",
-        "imgMode": 0,
-        "level": 1,
+        "priority": 0,
+        "modifiedTime": "2026-01-05T04:58:31.541+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
@@ -146,7 +117,6 @@
           "dueDate": {
             "hasATime": false,
             "date": "2026-01-06",
-            "time": "00:00",
             "isoDate": "2026-01-05T16:00:00.000+0000",
             "emoji": "📅"
           },
@@ -154,7 +124,7 @@
           "startDate": null,
           "isAllDay": true
         },
-        "lineHash": "9b2b244610dc86a10da05953f3e89c5402123a73e2731c15e515976a3b87ee98"
+        "lineHash": "93c53911b732df7b25707e99c6c13c643139a8d13e5591e32b470e1116a863df"
       }
     ]
   },
