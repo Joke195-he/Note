@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "滴答清单.md",
+                "file": "规划/2026规划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "滴答清单"
+              "title": "2026规划"
             }
           }
         ]
@@ -148,12 +148,19 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "tickticksync:TickTickSync": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "470e5eeda8d73722",
   "lastOpenFiles": [
+    "学习/Obsidian/插件使用.md",
+    "/学习/Obsidian/插件使用.md",
+    "学习/Obsidian/Obsidian在Mac与Android同步.md",
+    "/学习/Obsidian/Obsidian在Mac与Android同步.md",
+    "学习/Obsidian",
+    "/学习/Obsidian",
+    "/学习",
+    "滴答清单.md",
     "规划/2026规划.md",
     "学习/Obsidian在Mac与Android同步.md",
     "阅读/三国演义.md"
