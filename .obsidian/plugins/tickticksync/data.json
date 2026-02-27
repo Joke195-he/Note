@@ -18,7 +18,7 @@
   "bkupFolder": "/",
   "inboxID": "inbox122123533",
   "inboxName": "Inbox",
-  "checkPoint": 1772163503978,
+  "checkPoint": 1772164126520,
   "skipBackup": true,
   "fileMetadata": {
     "滴答清单.md": {
@@ -255,133 +255,24 @@
         "lineHash": "8cf5cfa9f2dc4ede87f006848ff32e9041a7c544e042a00db1ae9d6372b28da1"
       },
       {
-        "id": "699fa8b14e70d10bd99c2d11",
-        "projectId": "inbox122123533",
-        "sortOrder": -1048577,
-        "title": "Spark 慢查询报表分析",
-        "content": "",
-        "desc": "",
-        "startDate": "2026-02-26T16:00:00.000+0000",
-        "dueDate": "2026-02-26T16:00:00.000+0000",
-        "timeZone": "Asia/Shanghai",
-        "isFloating": false,
-        "isAllDay": true,
-        "reminders": [],
-        "exDate": [],
-        "completedUserId": 0,
-        "priority": 0,
-        "status": 0,
-        "items": [],
-        "progress": 0,
-        "modifiedTime": "2026-02-26T10:02:53.000+0000",
-        "etag": "qbvvlceq",
-        "deleted": 0,
-        "createdTime": "2026-02-26T01:58:09.000+0000",
-        "creator": 122123533,
-        "tags": [
-          "ticktick"
-        ],
-        "attachments": [],
-        "commentCount": 0,
-        "focusSummaries": [],
-        "kind": "TEXT",
-        "imgMode": 0,
-        "dateHolder": {
-          "cancelled_date": null,
-          "createdTime": null,
-          "completedTime": null,
-          "dueDate": {
-            "hasATime": false,
-            "date": "2026-02-27",
-            "time": "00:00",
-            "isoDate": "2026-02-26T16:00:00.000+0000",
-            "emoji": "📅"
-          },
-          "scheduled_date": null,
-          "startDate": null,
-          "isAllDay": true
-        }
-      },
-      {
-        "id": "699fa8ba4d3ed10bd99c2d86",
-        "projectId": "inbox122123533",
-        "sortOrder": -2097153,
-        "title": "词根启用通知",
-        "content": "",
-        "desc": "",
-        "startDate": "2026-02-25T16:00:00.000+0000",
-        "dueDate": "2026-02-25T16:00:00.000+0000",
-        "timeZone": "Asia/Shanghai",
-        "isFloating": false,
-        "isAllDay": true,
-        "reminders": [],
-        "exDate": [],
-        "completedUserId": 0,
-        "priority": 0,
-        "status": 0,
-        "items": [],
-        "progress": 0,
-        "modifiedTime": "2026-02-26T01:58:18.000+0000",
-        "etag": "28a8r0c7",
-        "deleted": 0,
-        "createdTime": "2026-02-26T01:58:18.000+0000",
-        "creator": 122123533,
-        "tags": [
-          "ticktick"
-        ],
-        "attachments": [],
-        "commentCount": 0,
-        "focusSummaries": [],
-        "kind": "TEXT",
-        "imgMode": 0,
-        "dateHolder": {
-          "cancelled_date": null,
-          "createdTime": null,
-          "completedTime": null,
-          "dueDate": {
-            "hasATime": false,
-            "date": "2026-02-26",
-            "time": "00:00",
-            "isoDate": "2026-02-25T16:00:00.000+0000",
-            "emoji": "📅"
-          },
-          "scheduled_date": null,
-          "startDate": null,
-          "isAllDay": true
-        }
-      },
-      {
         "id": "69a056aa4be6452411edb929",
         "projectId": "inbox122123533",
-        "sortOrder": -3211265,
         "title": "购买皮炎平擦耳朵",
         "content": "",
         "desc": "",
-        "timeZone": "Asia/Shanghai",
-        "isFloating": false,
-        "isAllDay": false,
-        "reminder": "",
-        "reminders": [],
-        "exDate": [],
-        "repeatTaskId": "69a056aa4be6452411edb929",
-        "priority": 0,
-        "status": 0,
         "items": [],
-        "progress": 0,
-        "modifiedTime": "2026-02-26T14:20:26.000+0000",
-        "etag": "ahrvv8x6",
-        "deleted": 0,
-        "createdTime": "2026-02-26T14:20:26.000+0000",
-        "creator": 122123533,
-        "repeatFrom": "2",
+        "parentId": "",
+        "dueDate": "",
+        "startDate": "",
+        "completedTime": "",
+        "isAllDay": true,
         "tags": [
           "ticktick"
         ],
-        "attachments": [],
-        "commentCount": 0,
-        "focusSummaries": [],
-        "columnId": "",
-        "kind": "TEXT",
+        "priority": 0,
+        "modifiedTime": "2026-02-27T03:51:22.825+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
@@ -390,7 +281,78 @@
           "scheduled_date": null,
           "startDate": null,
           "isAllDay": true
-        }
+        },
+        "lineHash": "8eb52ef532c5735e852b90d59556cf46f1aec096fcc8403e937344f4a5f8c68e"
+      },
+      {
+        "id": "699fa8ba4d3ed10bd99c2d86",
+        "projectId": "inbox122123533",
+        "title": "词根启用通知",
+        "content": "",
+        "desc": "",
+        "items": [],
+        "parentId": "",
+        "dueDate": "2026-02-25T16:00:00.000+0000",
+        "startDate": "2026-02-25T16:00:00.000+0000",
+        "completedTime": "",
+        "isAllDay": true,
+        "tags": [
+          "ticktick"
+        ],
+        "priority": 0,
+        "modifiedTime": "2026-02-27T03:51:22.830+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-02-26",
+            "isoDate": "2026-02-25T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        },
+        "lineHash": "51541e0ecfcfffc127ed76b40722c27eabdb8291924c8d484b3eb41033f730e3"
+      },
+      {
+        "id": "699fa8b14e70d10bd99c2d11",
+        "projectId": "inbox122123533",
+        "title": "Spark 慢查询报表分析",
+        "content": "",
+        "desc": "",
+        "items": [],
+        "parentId": "",
+        "dueDate": "2026-02-26T16:00:00.000+0000",
+        "startDate": "2026-02-26T16:00:00.000+0000",
+        "completedTime": "",
+        "isAllDay": true,
+        "tags": [
+          "ticktick"
+        ],
+        "priority": 0,
+        "modifiedTime": "2026-02-27T03:51:22.834+0000",
+        "status": 0,
+        "timeZone": "Asia/Shanghai",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-02-27",
+            "isoDate": "2026-02-26T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        },
+        "lineHash": "70c27b698c12dbeb1348213baffc047368ea03b86c55ee66e5620f1222c753da"
       }
     ]
   },
