@@ -18,7 +18,7 @@
   "bkupFolder": "/",
   "inboxID": "inbox122123533",
   "inboxName": "Inbox",
-  "checkPoint": 1767586744166,
+  "checkPoint": 1772163503978,
   "skipBackup": true,
   "fileMetadata": {
     "滴答清单.md": {
@@ -30,9 +30,21 @@
         {
           "taskId": "695a68955c83919eaa566162",
           "taskItems": []
+        },
+        {
+          "taskId": "69a056aa4be6452411edb929",
+          "taskItems": []
+        },
+        {
+          "taskId": "699fa8ba4d3ed10bd99c2d86",
+          "taskItems": []
+        },
+        {
+          "taskId": "699fa8b14e70d10bd99c2d11",
+          "taskItems": []
         }
       ],
-      "TickTickCount": 2,
+      "TickTickCount": 5,
       "defaultProjectId": "inbox122123533"
     },
     "生活/马宝成长记/费用记录.md": {
@@ -79,6 +91,92 @@
   "TickTickTasksData": {
     "projects": [
       {
+        "id": "69a056a44be6452411edb91f",
+        "name": "🏠个人备忘",
+        "isOwner": true,
+        "color": null,
+        "sortOrder": -65536,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder",
+          "order": null
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "n5bg2y7e",
+        "modifiedTime": "2026-02-26T14:20:20.297+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": false,
+        "transferred": null,
+        "groupId": null,
+        "viewMode": null,
+        "notificationOptions": [],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder",
+            "order": null
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": false,
+        "teamMemberPermission": null,
+        "source": 1,
+        "background": null
+      },
+      {
+        "id": "69a056a44be6452411edb920",
+        "name": "💼工作任务",
+        "isOwner": true,
+        "color": null,
+        "sortOrder": -131072,
+        "sortOption": {
+          "groupBy": "sortOrder",
+          "orderBy": "sortOrder",
+          "order": null
+        },
+        "sortType": "sortOrder",
+        "userCount": 1,
+        "etag": "29m3jd9b",
+        "modifiedTime": "2026-02-26T14:20:20.309+0000",
+        "inAll": true,
+        "showType": null,
+        "muted": false,
+        "reminderType": null,
+        "closed": false,
+        "transferred": null,
+        "groupId": null,
+        "viewMode": null,
+        "notificationOptions": [],
+        "teamId": null,
+        "permission": "write",
+        "kind": "TASK",
+        "timeline": {
+          "range": null,
+          "sortType": "sortOrder",
+          "sortOption": {
+            "groupBy": "sortOrder",
+            "orderBy": "sortOrder",
+            "order": null
+          }
+        },
+        "needAudit": true,
+        "barcodeNeedAudit": false,
+        "openToTeam": false,
+        "teamMemberPermission": null,
+        "source": 1,
+        "background": null
+      },
+      {
         "id": "inbox122123533",
         "name": "Inbox"
       }
@@ -101,7 +199,7 @@
           "工作"
         ],
         "priority": 0,
-        "modifiedTime": "2026-01-05T04:58:31.536+0000",
+        "modifiedTime": "2026-02-27T03:36:56.181+0000",
         "status": 2,
         "timeZone": "Asia/Shanghai",
         "dateHolder": {
@@ -118,7 +216,7 @@
           "startDate": null,
           "isAllDay": true
         },
-        "lineHash": "eb5c5a6447cb853f6c1bf3fce2c2101e7a131e9c4145d953f7520cb108ce1ac6"
+        "lineHash": "76d5be93d39a3d933bafd46440bbf635ec82dfd4455d6a1d323f55a79b278fba"
       },
       {
         "id": "695a68955c83919eaa566162",
@@ -137,8 +235,8 @@
           "工作"
         ],
         "priority": 0,
-        "modifiedTime": "2026-01-05T04:58:31.541+0000",
-        "status": 0,
+        "modifiedTime": "2026-02-27T03:36:56.189+0000",
+        "status": 2,
         "timeZone": "Asia/Shanghai",
         "dateHolder": {
           "cancelled_date": null,
@@ -154,10 +252,148 @@
           "startDate": null,
           "isAllDay": true
         },
-        "lineHash": "93c53911b732df7b25707e99c6c13c643139a8d13e5591e32b470e1116a863df"
+        "lineHash": "8cf5cfa9f2dc4ede87f006848ff32e9041a7c544e042a00db1ae9d6372b28da1"
+      },
+      {
+        "id": "699fa8b14e70d10bd99c2d11",
+        "projectId": "inbox122123533",
+        "sortOrder": -1048577,
+        "title": "Spark 慢查询报表分析",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-02-26T16:00:00.000+0000",
+        "dueDate": "2026-02-26T16:00:00.000+0000",
+        "timeZone": "Asia/Shanghai",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "exDate": [],
+        "completedUserId": 0,
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-02-26T10:02:53.000+0000",
+        "etag": "qbvvlceq",
+        "deleted": 0,
+        "createdTime": "2026-02-26T01:58:09.000+0000",
+        "creator": 122123533,
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-02-27",
+            "time": "00:00",
+            "isoDate": "2026-02-26T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "699fa8ba4d3ed10bd99c2d86",
+        "projectId": "inbox122123533",
+        "sortOrder": -2097153,
+        "title": "词根启用通知",
+        "content": "",
+        "desc": "",
+        "startDate": "2026-02-25T16:00:00.000+0000",
+        "dueDate": "2026-02-25T16:00:00.000+0000",
+        "timeZone": "Asia/Shanghai",
+        "isFloating": false,
+        "isAllDay": true,
+        "reminders": [],
+        "exDate": [],
+        "completedUserId": 0,
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-02-26T01:58:18.000+0000",
+        "etag": "28a8r0c7",
+        "deleted": 0,
+        "createdTime": "2026-02-26T01:58:18.000+0000",
+        "creator": 122123533,
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "kind": "TEXT",
+        "imgMode": 0,
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-02-26",
+            "time": "00:00",
+            "isoDate": "2026-02-25T16:00:00.000+0000",
+            "emoji": "📅"
+          },
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
+      },
+      {
+        "id": "69a056aa4be6452411edb929",
+        "projectId": "inbox122123533",
+        "sortOrder": -3211265,
+        "title": "购买皮炎平擦耳朵",
+        "content": "",
+        "desc": "",
+        "timeZone": "Asia/Shanghai",
+        "isFloating": false,
+        "isAllDay": false,
+        "reminder": "",
+        "reminders": [],
+        "exDate": [],
+        "repeatTaskId": "69a056aa4be6452411edb929",
+        "priority": 0,
+        "status": 0,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-02-26T14:20:26.000+0000",
+        "etag": "ahrvv8x6",
+        "deleted": 0,
+        "createdTime": "2026-02-26T14:20:26.000+0000",
+        "creator": 122123533,
+        "repeatFrom": "2",
+        "tags": [
+          "ticktick"
+        ],
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "columnId": "",
+        "kind": "TEXT",
+        "dateHolder": {
+          "cancelled_date": null,
+          "createdTime": null,
+          "completedTime": null,
+          "dueDate": null,
+          "scheduled_date": null,
+          "startDate": null,
+          "isAllDay": true
+        }
       }
     ]
   },
-  "token": "154BB8FE914467834DE4A8CE5989D504E8E7CD50E71EC6121D7A7BF8A99379A83C5D096047E478816114F3DE4175E87923C874B2F9A202D1B5A79F595C16E3186E5219C376B26DA31E7CB776D7468D9F6D96EE0E8099773B0C16DF61C26596B282BEE463B1431075BC4DD36207DCA5A86D96EE0E8099773BBC464E5628562A5EC32D36993667BC840E0AFFC9FA0CE21F0CBAEBD40CA20D3A5FD8438B0CDB817521B10617E99B771F",
+  "token": "154BB8FE9144678395C4E4EFCC091405B86ADB9F6D7618EE295B8FD038CD96B75FA1E0C8A2B524DDD4970EEEBF9F1DA423C874B2F9A202D1B5A79F595C16E3186E5219C376B26DA31E7CB776D7468D9FA3C6DDF341543E788CE80867AA5B88A882BEE463B1431075BC4DD36207DCA5A8A3C6DDF341543E78D055D2BE1A9DD48AC32D36993667BC840E0AFFC9FA0CE21F0CBAEBD40CA20D3A5FD8438B0CDB817521B10617E99B771F",
   "version": "1.1.17"
 }
