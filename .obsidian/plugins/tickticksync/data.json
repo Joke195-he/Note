@@ -102,7 +102,7 @@
         ],
         "priority": 0,
         "modifiedTime": "2026-01-05T04:58:31.536+0000",
-        "status": 0,
+        "status": 2,
         "timeZone": "Asia/Shanghai",
         "dateHolder": {
           "cancelled_date": null,
