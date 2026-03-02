@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f19dbaa0b5da190f",
+        "id": "6763c302c76931ea",
         "type": "tabs",
         "children": [
           {
-            "id": "6fa01eccd6f3c71d",
+            "id": "5ae008f935f2ee9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,11 +173,13 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "tickticksync:TickTickSync": false
     }
   },
-  "active": "6fa01eccd6f3c71d",
+  "active": "5ae008f935f2ee9a",
   "lastOpenFiles": [
+    "滴答清单.md",
     "阅读/三国演义.md",
     "规划/2026规划.md",
     "规划/家务清单.md",
@@ -186,7 +188,6 @@
     "学习/ITerm2环境搭建.md",
     "游戏/塞尔达传说.md",
     "阅读/剑来.md",
-    "滴答清单.md",
     "学习/视频剪辑/凡人修仙传.md",
     "学习/视频剪辑/脚本.md",
     "学习/大数据之路/大数据之路2.md",

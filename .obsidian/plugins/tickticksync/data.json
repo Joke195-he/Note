@@ -18,7 +18,7 @@
   "bkupFolder": "/",
   "inboxID": "inbox122123533",
   "inboxName": "Inbox",
-  "checkPoint": 1772273331086,
+  "checkPoint": 1772416247475,
   "skipBackup": true,
   "fileMetadata": {
     "滴答清单.md": {
@@ -32,15 +32,15 @@
           "taskItems": []
         },
         {
-          "taskId": "69a056aa4be6452411edb929",
-          "taskItems": []
-        },
-        {
           "taskId": "699fa8ba4d3ed10bd99c2d86",
           "taskItems": []
         },
         {
           "taskId": "699fa8b14e70d10bd99c2d11",
+          "taskItems": []
+        },
+        {
+          "taskId": "69a056aa4be6452411edb929",
           "taskItems": []
         }
       ],
@@ -255,34 +255,61 @@
         "lineHash": "8cf5cfa9f2dc4ede87f006848ff32e9041a7c544e042a00db1ae9d6372b28da1"
       },
       {
-        "id": "69a056aa4be6452411edb929",
+        "id": "699fa8b14e70d10bd99c2d11",
         "projectId": "inbox122123533",
-        "title": "购买皮炎平擦耳朵",
+        "sortOrder": -1048577,
+        "title": "Spark 慢查询报表分析",
         "content": "",
         "desc": "",
-        "items": [],
-        "parentId": "",
-        "dueDate": "",
-        "startDate": "",
-        "completedTime": "",
+        "startDate": "2026-02-27T16:00:00.000+0000",
+        "dueDate": "2026-02-27T16:00:00.000+0000",
+        "timeZone": "Asia/Shanghai",
+        "isFloating": false,
         "isAllDay": true,
+        "reminders": [],
+        "exDate": [],
+        "completedTime": "2026-02-28T10:08:45.000+0000",
+        "completedUserId": 122123533,
+        "priority": 0,
+        "status": 2,
+        "items": [],
+        "progress": 0,
+        "modifiedTime": "2026-02-28T10:08:45.000+0000",
+        "etag": "q7o741b0",
+        "deleted": 0,
+        "createdTime": "2026-02-26T01:58:09.000+0000",
+        "creator": 122123533,
+        "repeatFrom": "2",
         "tags": [
           "ticktick"
         ],
-        "priority": 0,
-        "modifiedTime": "2026-02-27T03:51:22.825+0000",
-        "status": 0,
-        "timeZone": "Asia/Shanghai",
+        "attachments": [],
+        "commentCount": 0,
+        "focusSummaries": [],
+        "kind": "TEXT",
+        "imgMode": 0,
+        "level": 1,
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
-          "completedTime": null,
-          "dueDate": null,
+          "completedTime": {
+            "hasATime": true,
+            "date": "2026-02-28",
+            "time": "18:08",
+            "isoDate": "2026-02-28T10:08:45.000+0000",
+            "emoji": "✅"
+          },
+          "dueDate": {
+            "hasATime": false,
+            "date": "2026-02-28",
+            "time": "00:00",
+            "isoDate": "2026-02-27T16:00:00.000+0000",
+            "emoji": "📅"
+          },
           "scheduled_date": null,
           "startDate": null,
           "isAllDay": true
-        },
-        "lineHash": "8eb52ef532c5735e852b90d59556cf46f1aec096fcc8403e937344f4a5f8c68e"
+        }
       },
       {
         "id": "699fa8ba4d3ed10bd99c2d86",
@@ -341,29 +368,30 @@
         }
       },
       {
-        "id": "699fa8b14e70d10bd99c2d11",
+        "id": "69a056aa4be6452411edb929",
         "projectId": "inbox122123533",
-        "sortOrder": -1048577,
-        "title": "Spark 慢查询报表分析",
+        "sortOrder": -3211265,
+        "title": "购买皮炎平擦耳朵",
         "content": "",
         "desc": "",
-        "startDate": "2026-02-27T16:00:00.000+0000",
-        "dueDate": "2026-02-27T16:00:00.000+0000",
         "timeZone": "Asia/Shanghai",
         "isFloating": false,
-        "isAllDay": true,
+        "isAllDay": false,
+        "reminder": "",
         "reminders": [],
+        "repeatFlag": "",
         "exDate": [],
-        "completedTime": "2026-02-28T10:08:45.000+0000",
+        "completedTime": "2026-03-01T13:11:34.000+0000",
         "completedUserId": 122123533,
+        "repeatTaskId": "69a056aa4be6452411edb929",
         "priority": 0,
         "status": 2,
         "items": [],
         "progress": 0,
-        "modifiedTime": "2026-02-28T10:08:45.000+0000",
-        "etag": "q7o741b0",
+        "modifiedTime": "2026-03-01T13:11:34.000+0000",
+        "etag": "7kdgojj8",
         "deleted": 0,
-        "createdTime": "2026-02-26T01:58:09.000+0000",
+        "createdTime": "2026-02-26T14:20:26.000+0000",
         "creator": 122123533,
         "repeatFrom": "2",
         "tags": [
@@ -372,26 +400,20 @@
         "attachments": [],
         "commentCount": 0,
         "focusSummaries": [],
+        "columnId": "",
         "kind": "TEXT",
-        "imgMode": 0,
         "level": 1,
         "dateHolder": {
           "cancelled_date": null,
           "createdTime": null,
           "completedTime": {
             "hasATime": true,
-            "date": "2026-02-28",
-            "time": "18:08",
-            "isoDate": "2026-02-28T10:08:45.000+0000",
+            "date": "2026-03-01",
+            "time": "21:11",
+            "isoDate": "2026-03-01T13:11:34.000+0000",
             "emoji": "✅"
           },
-          "dueDate": {
-            "hasATime": false,
-            "date": "2026-02-28",
-            "time": "00:00",
-            "isoDate": "2026-02-27T16:00:00.000+0000",
-            "emoji": "📅"
-          },
+          "dueDate": null,
           "scheduled_date": null,
           "startDate": null,
           "isAllDay": true
